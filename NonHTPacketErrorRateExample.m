@@ -11,6 +11,7 @@ clc
 % with the 802.11a link.
 % Last edit: 8/15/17 SD
 
+r = 5+5
 
 % Copyright 2015-2016 The MathWorks, Inc.
 
